@@ -1,11 +1,15 @@
 ### Hi there👋
 ### I'm only getting started 😎
 ### <hr>
-### Tools and Technologies I can use :
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100em"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100em"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100em"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100em"><img src="https://github.com/sahilsingh2402/sahilsingh2402/raw/main/files_ss2402/cpp.svg" width="100em"><img src="https://github.com/sahilsingh2402/sahilsingh2402/raw/main/files_ss2402/c-original.svg" width="100em"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100em">
+### Programming Languages:
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50em">     <img src="https://github.com/sahilsingh2402/sahilsingh2402/raw/main/files_ss2402/cpp.svg" width="50em">     <img src="https://github.com/sahilsingh2402/sahilsingh2402/raw/main/files_ss2402/c-original.svg" width="50em">      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50em">
+### Markup Languages:
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50em">
+### Libraries and Frameworks:
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50em">     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50em">
+### Miscellaneous:
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50em">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50em">  
 ### <hr>
-### [![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iman-Kalyan-Majumder)](https://github.com/Iman-Kalyan-Majumder/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-Kalyan-Majumder)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Iman-Kalyan-Majumder/Iman-Kalyan-Majumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
